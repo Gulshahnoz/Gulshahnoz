@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gulshahnoz
-- 🌱 I’m currently learning Python
-- 📫 How to reach me @raqamli_linvist
+- 🌱 I’m currently learning Python, Data science
+- 📫 How to reach me @raqamli_lingvist
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: super lazy girl
 
