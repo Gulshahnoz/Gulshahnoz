@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gulshaxnoz
+- 👋 Hi, I’m @Gulshaxnoz, AI enthusiast | TTS researcher | Open Source contributor
 - 🌱 I’m currently learning Python, Data science
 - 📫 How to reach me @raqamli_lingvist
 - 😄 Pronouns: she/her
