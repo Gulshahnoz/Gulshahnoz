@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gulshahnoz
+- 👋 Hi, I’m @Gulshaxnoz
 - 🌱 I’m currently learning Python, Data science
 - 📫 How to reach me @raqamli_lingvist
 - 😄 Pronouns: she/her
